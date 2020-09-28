@@ -1,2 +1,8 @@
-# aml-common-utils
-common utility java library
+#AML Common Utils
+
+## Purpose
+common utility libraries to consume to support various functionalities includes file and folder utility, string utilities e.t.c
+
+
+## License
+This project is released under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). If you are an Enterprise customer check the [Support] section.
